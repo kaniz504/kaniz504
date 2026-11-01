@@ -109,11 +109,13 @@ Python implementations of AES and DES encryption algorithms.
 
 ## 📊 GitHub Activity Graph
 
+
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kani504&bg_color=0d1117&color=58a6ff&line=1f6feb&point=79c0ff&area=true&hide_border=true" width="100%"/>
-
+  <a href="https://github.com/kani504">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kani504&theme=github-compact&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=79C0FF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+  </a>
 </div>
+
 
 ---
 
