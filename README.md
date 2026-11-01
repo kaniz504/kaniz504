@@ -1,75 +1,156 @@
 
 <div align="center">
 
-# Hi, I'm Kaniz! 👋
+# Hi 👋, I'm Kaniz Fatema
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Graduate;Aspiring+Software+Developer;Building+Things+That+Matter;Always+Learning+Something+New" />
+### Computer Science & Engineering Student | Aspiring Software Developer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7B2FF7&height=150&section=header"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Software+Development+Enthusiast;Building+Projects+with+C%2B%2B+%26+Python;Always+Learning+%26+Building" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1F6FEB,100:58A6FF&height=130&section=header"/>
 
 </div>
+
+---
 
 ## 👩‍💻 About Me
 
-- 🎓 BSc in Computer Science & Engineering
-- 💻 Interested in software development and technology
-- 🚀 Building projects and learning through experimentation
-- 🌱 Currently improving my development skills
-- 📍 Bangladesh
+- 🎓 Computer Science & Engineering student at Jagannath University.
+- 💻 Interested in software development and computer graphics.
+- 🚀 Building practical projects and exploring new technologies.
+- 🔐 Exploring cryptography and cybersecurity concepts.
+- 🌱 Continuously learning, experimenting and improving.
+- 📍 Bangladesh 🇧🇩
 
-## 🛠️ Tech Stack
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,reactnative,html,css,git,github,vscode" />
+## 🛠️ Technical Skills
+
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,js" />
 </p>
+
+### Front-End & App Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
+</p>
+
+### Other Technologies
+- OpenGL / FreeGLUT
+- AES & DES Cryptography
+- Computer Graphics Algorithms
+- React Native / Expo
+
+---
+
+## 📚 Currently Learning
+
+- Software Development
+- Advanced Programming Concepts
+- Computer Graphics
+- Mobile Application Development
+- Cybersecurity Fundamentals
+
+---
+
+## 🌟 Core Strengths
+
+- Problem Solving
+- Creative Project Development
+- Algorithm Implementation
+- Learning New Technologies
+- Debugging & Experimentation
+- Team Collaboration
+
+---
 
 ## 🚀 Featured Projects
 
-### 1. SyncTrack
-A project progress monitoring platform designed to help teachers track student project development.
+### 🔹 SyncTrack
+A student project progress monitoring application designed to help teachers track project development.
 
-🔗 [View Repository](https://github.com/Ninalfi/SyncTrack_main)
+[View Repository →](https://github.com/Ninalfi/SyncTrack_main)
 
-### 2. Computer Graphics Projects
-3D environments and animations developed using C++, OpenGL and GLUT.
+### 🔹 3D Computer Graphics Projects
+Interactive 3D environments built using C++, OpenGL and FreeGLUT.
 
-### 3. Cryptography Projects
-Exploring encryption algorithms including AES and DES using Python.
+### 🔹 Cryptography Implementation
+Python implementations of AES and DES encryption algorithms.
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kani504&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kani504&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=kani504&theme=tokyonight&hide_border=true" />
-
-</div>
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
+---
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
+<p align="center">
 <a href="https://github.com/kani504">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
-</div>
+---
+
+## 📈 GitHub Statistics
 
 <div align="center">
 
-### ✨ Thanks for visiting my profile!
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kani504&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img src="https://komarev.com/ghpvc/?username=kani504&style=flat-square&color=blueviolet"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kani504&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📊 GitHub Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kani504&bg_color=0d1117&color=58a6ff&line=1f6feb&point=79c0ff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kani504&theme=algolia&no-frame=true&no-bg=true&margin-w=4"/>
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=kani504&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kani504/kani504/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Building • Learning • Growing 💙
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D47A1&height=100&section=footer"/>
 
 </div>
