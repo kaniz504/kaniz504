@@ -1,171 +1,144 @@
 
-<div align="center">
+# Hi 👋, I'm Kaniz Fatema
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:071A36,50:155EEF,100:38BDF8&text=KANIZ%20FATEMA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20%26%20Engineering&descAlignY=58&descSize=17" width="100%"/>
+### Computer Science Student • Software Developer • Technology Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Development+Enthusiast;C%2B%2B+%7C+Python+%7C+JavaScript;Building+Ideas+Into+Projects;Learning+Something+New+Every+Day" />
-
-<p>
-  <img src="https://img.shields.io/badge/Location-Bangladesh-155EEF?style=flat-square&logo=googlemaps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-2563EB?style=flat-square"/>
-  <img src="https://komarev.com/ghpvc/?username=kaniz504&style=flat-square&color=1F6FEB&label=PROFILE+VIEWS"/>
-</p>
-
-</div>
+Passionate about building practical applications, exploring software development, and continuously learning new technologies.
 
 ---
 
 ## 👩‍💻 About Me
 
-Hello! I'm **Kaniz Fatema**, a Computer Science and Engineering student who enjoys exploring technology, solving problems and building practical applications.
+🎓 Computer Science and Engineering Student at Jagannath University
 
-- 🎓 BSc in Computer Science & Engineering — Jagannath University
-- 💻 Interested in software and mobile application development
-- 🔭 Working on practical programming projects
-- 🔐 Exploring cryptography and computer graphics
-- 🌱 Always learning and improving my technical skills
-- 🎯 Goal: Become a skilled software developer
+💻 Passionate about Software Development and Programming
+
+🔐 Interested in Cryptography and Computer Graphics
+
+🌱 Continuously improving through hands-on projects and practical learning
+
+🚀 Aspiring Software Engineer
 
 ---
 
-## 🛠️ Technical Skills
-
-<div align="center">
+## 🚀 Technical Skills
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js&theme=dark" />
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,js&theme=dark"/>
+</p>
 
-### Development
+### Front-End Development
 
-<img src="https://skillicons.dev/icons?i=react,html,css,git,github,vscode,androidstudio&theme=dark" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark"/>
+</p>
 
-</div>
+### Back-End & Database
 
-**Other Technologies**
+- Python
+- REST API fundamentals
+
+### Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark"/>
+</p>
+
+### Other Technologies
 
 - OpenGL / FreeGLUT
 - React Native / Expo
-- AES and DES
+- AES and DES Cryptography
 - Computer Graphics Algorithms
-- Git and GitHub
 
 ---
 
 ## 📚 Currently Learning
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Software%20Development-0D47A1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-1565C0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Mobile%20Development-1976D2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Graphics-1E88E5?style=for-the-badge"/>
-
-</div>
+- Software Development
+- Mobile Application Development
+- Computer Graphics
+- Cybersecurity Fundamentals
+- Advanced Programming Concepts
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Core Strengths
 
-<table>
-<tr>
-<td width="50%">
-
-### 🔹 SyncTrack
-
-A project progress monitoring application designed to help teachers track student project development.
-
-**Tech:** React Native, Expo
-
-[View Project →](https://github.com/Ninalfi/SyncTrack_main)
-
-</td>
-<td width="50%">
-
-### 🔹 3D Graphics Projects
-
-Interactive 3D scenes and environments built with OpenGL and C++.
-
-**Tech:** C++, OpenGL, FreeGLUT
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔹 Cryptography
-
-Implementations of encryption algorithms from scratch.
-
-**Tech:** Python, AES, DES
-
-</td>
-<td width="50%">
-
-### 🔹 Procedural Terrain
-
-A 3D natural landscape with procedural generation and first-person navigation.
-
-**Tech:** C++, OpenGL, Noise Algorithms
-
-</td>
-</tr>
-</table>
+- Problem Solving
+- Algorithm Implementation
+- Creative Project Development
+- Debugging and Experimentation
+- Team Collaboration
+- Continuous Learning
 
 ---
 
-## 📊 GitHub Statistics
+## 🌐 Connect With Me
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kaniz504&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=38BDF8&text_color=C9D1D9"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaniz504&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=kaniz504&theme=tokyonight&hide_border=true&background=0D1117&ring=1F6FEB&fire=38BDF8&currStreakLabel=58A6FF"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaniz504&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=38BDF8&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kaniz504&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10"/>
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
+<p>
 <a href="https://github.com/kaniz504">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-1F6FEB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
-</div>
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kaniz504&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=38BDF8"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaniz504&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF"/>
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaniz504&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=79C0FF&area=true&hide_border=true" width="100%"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kaniz504&theme=algolia&no-frame=true&no-bg=true&margin-w=4"/>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kaniz504&label=PROFILE+VIEWS&color=1F6FEB&style=flat"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/kaniz504/kaniz504/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to collaborating on interesting projects, discussing software development, and exploring new technologies.
+
+Feel free to reach out and connect!
 
 ---
 
 <div align="center">
 
-### ✨ BUILD • LEARN • CREATE • REPEAT
+### Building • Learning • Growing 💙
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:38BDF8,50:155EEF,100:071A36&section=footer" width="100%"/>
+⭐ From [kaniz504](https://github.com/kaniz504)
 
 </div>
