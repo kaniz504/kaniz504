@@ -95,11 +95,7 @@ Passionate about building practical applications, exploring software development
 
 ---
 
-## 📈 GitHub Activity Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaniz504&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=79C0FF&area=true&hide_border=true" width="100%"/>
-</p>
 
 ---
 
@@ -111,11 +107,7 @@ Passionate about building practical applications, exploring software development
 
 ---
 
-## 👀 Profile Views
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=kaniz504&label=PROFILE+VIEWS&color=1F6FEB&style=flat"/>
-</p>
 
 ---
 
